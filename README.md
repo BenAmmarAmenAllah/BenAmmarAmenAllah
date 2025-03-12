@@ -1,4 +1,4 @@
-# Hi, I'm AmenAllahgamer 👋
+# Hi, I'm Amengamer 👋
 
 Welcome to my GitHub profile!
 
