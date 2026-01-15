@@ -1,4 +1,4 @@
-# Hi, I'm Amengamer 👋
+# Hi, I'm Nightmarexdgamer 👋
 
 Welcome to my GitHub profile!
 
