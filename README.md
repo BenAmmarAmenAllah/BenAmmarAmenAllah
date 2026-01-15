@@ -8,7 +8,10 @@ Welcome to my GitHub profile!
   <img align="left" width="45%" src="metrics.svg" alt="GitHub Metrics">
   <img align="right" width="45%" src="anilist.svg" alt="Anime Metrics">
 
+<br clear="both">
 
-<a href="https://buymeacoffee.com/nightmarexdgamer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
-</a>
+<div align="center">
+  <a href="https://buymeacoffee.com/nightmarexdgamer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  </a>
+</div>
